@@ -1,6 +1,6 @@
 # Hello there, I'm Sadegh 👋
 
-I'm a software enthusiast with a Bachelor's degree in Computer Science, specializing in .NET development, Android development, and deep learning.
+I'm a software enthusiast with a Bachelor's degree in Computer Science, I have some experience in .NET development, Android development, and deep learning.
 
 ## About Me
 
@@ -13,7 +13,7 @@ I'm a software enthusiast with a Bachelor's degree in Computer Science, speciali
 
 - **Programming Languages:** C#, Java, Python
 - **Frameworks & Libraries:** .NET Framework, Android SDK, TensorFlow, PyTorch, Keras
-- **Tools & Technologies:** Visual Studio, Visual Studio Code, Android Studio, Git
+- **Tools & Technologies:** Visual Studio, Visual Studio Code, Android Studio
 - **Other Skills:** Software architecture, problem-solving, teamwork
 
 ## Experience
