@@ -31,4 +31,8 @@ Here are a few projects I've worked on:
 2. **Online Shop REST API**: This project provides a backend RESTful API for an online shopping application. [[Link to GitHub Repo]](https://github.com/sadegh15khedry/OnlineShopRESTApi)
 3. **Comments Sentiment Analysis**: Comments Sentiment Analysis is a project focused on analyzing the sentiment of user comments. [[Link to GitHub Repo]](https://github.com/sadegh15khedry/commentsSentimentAnalysis)
 
+##Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadegh15khedry&show_icons=true)
+
 Feel free to reach out to me for collaborations or discussions about technology and software development!
