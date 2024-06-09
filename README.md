@@ -11,10 +11,10 @@ I'm a software enthusiast with a Bachelor's degree in Computer Science, I have s
 
 ## Skills
 
-- **Programming Languages:** C#, Java, Python
+- **Programming Languages:** C#, Python, C, Java 
 - **Frameworks & Libraries:** .NET Framework, Android SDK, TensorFlow, PyTorch, Keras
 - **Tools & Technologies:** Visual Studio, Visual Studio Code, Android Studio
-- **Other Skills:** Software architecture, problem-solving, teamwork
+- **Other Skills:** problem-solving, teamwork
 
 ## Experience
 
