@@ -18,9 +18,9 @@ I'm a software enthusiast with a Bachelor's degree in Computer Science, I have s
 
 ## Experience
 
+- **Deep Learning (1 year):** Explored various deep learning techniques and frameworks, implementing projects in computer vision and natural language processing domains.
 - **.NET Development (2 years):** Developed web applications using ASP.NET, MVC framework, dapper and Entity Framework.
 - **SQL Server (2 years):** designed and implemented releational databases.
-- **Deep Learning (1 year):** Explored various deep learning techniques and frameworks, implementing projects in computer vision and natural language processing domains.
 - **Android Development (3 months):** Built Android applications using Java and Android SDK, focusing on UI/UX design and app functionality.
 
 
@@ -51,9 +51,14 @@ I'm a software enthusiast with a Bachelor's degree in Computer Science, I have s
 
 Here are a few projects I've worked on:
 
-1. **Tournament Tracker**: TournamentTracker is a robust application designed to manage and track tournaments. [[Link to GitHub Repo]](https://github.com/sadegh15khedry/TournamentTracker)
-2. **Online Shop REST API**: This project provides a backend RESTful API for an online shopping application. [[Link to GitHub Repo]](https://github.com/sadegh15khedry/OnlineShopRESTApi)
-3. **Comments Sentiment Analysis**: Comments Sentiment Analysis is a project focused on analyzing the sentiment of user comments. [[Link to GitHub Repo]](https://github.com/sadegh15khedry/commentsSentimentAnalysis)
+1. **Pneumonia Detection using CNN**: training and evaluating a convolutional neural network (CNN) model to detect pneumonia from chest X-ray images. [[Link to GitHub Repo]](https://github.com/sadegh15khedry/Pneumonia-Detection-Using-CNN))
+2. **ML Algorithms from scratch**:  This project is dedicated to implementing various machine learning algorithms from scratch to gain a deeper understanding of how they work.
+4. **Movie-Recommendation-System-Using-Collaborative-Filtering**: building a movie recommendation system using collaborative filtering techniques. [[Link to GitHub Repo]]https://github.com/sadegh15khedry/Movie-Recommendation-System-Using-Collaborative-Filtering
+5. **Lunar-Lander-Using-PPO**: This repository contains code for training and evaluating a Lunar Lander agent using the Proximal Policy Optimization (PPO) algorithm. [[Link to GitHub Repo]] https://github.com/sadegh15khedry/Lunar-Lander-Using-PPO
+6. **Anomaly Detection in Credit Card Transactions**: anomaly detection in credit card transactions using the Isolation Forest algorithm.[[Link to GitHub Repo]]https://github.com/sadegh15khedry/CreditCard-Transaction-Anomaly-Detection-Using-IsolationForest 
+7. **Comments Sentiment Analysis**: Comments Sentiment Analysis is a project focused on analyzing the sentiment of user comments. [[Link to GitHub Repo]](https://github.com/sadegh15khedry/commentsSentimentAnalysis)
+8.  **Random Forest Regressor for Boston Housing Dataset**:  Random Forest Regressor model to predict housing prices using the Boston Housing dataset.[[Link to GitHub Repo]]https://github.com/sadegh15khedry/Housing-Prices-Prediction-Using-RandomForest
+9.  **Clustering-Mall-Customer-Using-KMeans**: segmentation of mall customers based on their demographic and spending behavior.[[Link to GitHub Repo]]https://github.com/sadegh15khedry/Clustering-Mall-Customer-Using-KMeans
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100094360817301) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sadegh_khedry?igsh=MTBybGNxanhpNWlpdw==) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/sadegh15khedry?t=ZUxkxZm8vraSSUjpb0IyXw&s=35&mx=2) 
