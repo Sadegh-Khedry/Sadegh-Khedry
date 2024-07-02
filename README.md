@@ -52,7 +52,7 @@ I'm a software enthusiast with a Bachelor's degree in Computer Science, I have s
 Here are a few projects I've worked on:
 
 1. **Pneumonia Detection using CNN**: training and evaluating a convolutional neural network (CNN) model to detect pneumonia from chest X-ray images. [[Link to GitHub Repo]](https://github.com/sadegh15khedry/Pneumonia-Detection-Using-CNN))
-2. **ML Algorithms from scratch**:  This project is dedicated to implementing various machine learning algorithms from scratch to gain a deeper understanding of how they work.
+2. **ML Algorithms from scratch**:  This project is dedicated to implementing various machine learning algorithms from scratch to gain a deeper understanding of how they work. [[Link to GitHub Repo]](https://github.com/sadegh15khedry/ML-Algorithms-From-Scratch)
 4. **Movie-Recommendation-System-Using-Collaborative-Filtering**: building a movie recommendation system using collaborative filtering techniques. [[Link to GitHub Repo]](https://github.com/sadegh15khedry/Movie-Recommendation-System-Using-Collaborative-Filtering)
 5. **Lunar-Lander-Using-PPO**: This repository contains code for training and evaluating a Lunar Lander agent using the Proximal Policy Optimization (PPO) algorithm. [[Link to GitHub Repo]](https://github.com/sadegh15khedry/Lunar-Lander-Using-PPO)
 6. **Anomaly Detection in Credit Card Transactions**: anomaly detection in credit card transactions using the Isolation Forest algorithm.[[Link to GitHub Repo]](https://github.com/sadegh15khedry/CreditCard-Transaction-Anomaly-Detection-Using-IsolationForest) 
