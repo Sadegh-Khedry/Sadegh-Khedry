@@ -1,6 +1,6 @@
 # Hello there, I'm Sadegh 👋
 
-I'm a software enthusiast with a Bachelor's degree in Computer Science, I have some experience in .NET development, Android development, and deep learning.
+I'm a software and data science enthusiast with a Bachelor's degree in Computer Science, I have some experience in deep learning, .NET development and Android development.
 
 ## About Me
 
