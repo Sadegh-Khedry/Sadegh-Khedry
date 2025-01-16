@@ -1,12 +1,11 @@
 # Hello there, I'm Sadegh 👋
 
-I'm a Master's student in Computer Engineering at Sharif University of Technology, working on edge computing. I'm interested in real-time computing and have some experiences in .NET development, Android development, and deep learning.
+I'm a Master's student in Computer Engineering at Sharif University of Technology, working on real-time scheduling and have some experiences in .NET development, Android development, and deep learning.
 
 ## About Me
 
 - 🎓 Master's student in Computer Engineering at Sharif University of Technology
-- 🧑‍🔬 Working on edge computing
-- ⏱️ Interested in real-time computing
+- 🧑‍🔬 Working on real-time schedulings
 - 🌱 Passionate about research
 - 👨‍💻 Coding enthusiast
 - 🤝 Open to collaborations
@@ -22,8 +21,8 @@ I'm a Master's student in Computer Engineering at Sharif University of Technolog
 
 ## Experience
 
-- **Edge Computing (Current):** Working on edge computing solutions as part of my master's studies at Sharif University of Technology.
-- **Real-time Computing (Interest):** Exploring real-time computing concepts and applications.
+- **Real-time Computing (Current):** Working on real-time scheduling solutions as part of my master's studies at Sharif University of Technology.
+- **Edge Computing  (Interest):** Exploring real-time edge computing research.
 - **Deep Learning (2 year, prior experience):** Previously explored various deep learning techniques and frameworks, implementing projects in computer vision and natural language processing domains.
 - **.NET Development (2 years):** Developed web applications using ASP.NET, MVC framework, Dapper, and Entity Framework.
 - **SQL Server (2 years):** Designed and implemented relational databases.
