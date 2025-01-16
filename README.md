@@ -17,7 +17,7 @@ I'm a Master's student in Computer Engineering at Sharif University of Technolog
 - **Programming Languages:** Python, C#, C, Java 
 - **Frameworks & Libraries:** .NET Framework, Android SDK
 - **Tools & Technologies:** Visual Studio Code, Visual Studio, Android Studio
-- **Other Skills:** Edge computing, Real-time computing, Problem-solving, Teamwork
+- **Other Skills:** Problem-solving, Teamwork
 
 ## Experience
 
