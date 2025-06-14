@@ -1,11 +1,11 @@
 # Hello there, I'm Sadegh 👋
 
-I'm a Master's student in Computer Engineering at Sharif University of Technology, working on real-time scheduling and have some experiences in .NET development, Android development, and deep learning.
+I am a Master’s student in Computer Engineering at Sharif University of Technology. My research focuses on embedded real-time systems, particularly task scheduling, low-power computing, and thermal-aware system optimization. I’m interested in system-level design techniques that improve the efficiency and predictability of real-time applications. I aim to pursue a research career in embedded and cyber-physical systems.
 
 ## About Me
 
 - 🎓 Master's student in Computer Engineering at Sharif University of Technology
-- 🧑‍🔬 Working on real-time schedulings
+- 🧑‍🔬 Working on real-time schedulings, low-power design, and thermal-aware design
 - 🌱 Passionate about research
 - 👨‍💻 Coding enthusiast
 - 🤝 Open to collaborations
